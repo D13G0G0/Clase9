@@ -1,2 +1,1 @@
-# Clase9
-SpriteRectangulo
+# PROC9_P5Juego
